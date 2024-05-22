@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @Nandhakumar
+# Hi, I'm Nandhakumar 👋
+
+## About Me
 - 👀 I’m interested in Laravel Framework, Flutter, and Python
 - 🌱 I’m currently learning Laravel Framework
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ganapathinandhakumar247@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on projects related to Laravel, Flutter, and Python
+- 📫 How to reach me: ganapathinandhakumar247@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love hiking and exploring new places.
 
-<!---
-Nandhakumar247/Nandhakumar247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+
+## GitHub Stats
+![Nandhakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandhakumar&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhakumar&layout=compact&theme=radical)
+
+## Projects
+- [Laravel E-commerce](https://github.com/Nandhakumar/Laravel-Ecommerce): A full-featured e-commerce application built with Laravel.
+- [Flutter Chat App](https://github.com/Nandhakumar/Flutter-ChatApp): A real-time chat application using Flutter and Firebase.
+- [Python Data Analysis](https://github.com/Nandhakumar/Python-DataAnalysis): Data analysis and visualization using Python.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
