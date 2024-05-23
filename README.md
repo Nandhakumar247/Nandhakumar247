@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in Laravel Framework, Flutter, and Python
-- 🌱 I’m currently learning Laravel Framework
+- 🌱 I’m currently working Laravel Framework
 - 💞️ I’m looking to collaborate on projects related to Laravel, Flutter, and Python
 - 📫 How to reach me: ganapathinandhakumar247@gmail.com
 - 😄 Pronouns: he/him
