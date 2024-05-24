@@ -13,14 +13,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhakumar&layout=compact&theme=radical)
-
-## Projects
-- [Laravel E-commerce](https://github.com/Nandhakumar/Laravel-Ecommerce): A full-featured e-commerce application built with Laravel.
-- [Flutter Chat App](https://github.com/Nandhakumar/Flutter-ChatApp): A real-time chat application using Flutter and Firebase.
-- [Python Data Analysis](https://github.com/Nandhakumar/Python-DataAnalysis): Data analysis and visualization using Python.
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
