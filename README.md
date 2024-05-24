@@ -14,11 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%244776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
-[![Personal Website](https://img.shields.io/badge/Website-Visit-blue)](https://www.yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:youremail@example.com)
