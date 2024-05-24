@@ -14,12 +14,6 @@
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%244776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Kubernetes
-
-
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
 - [Twitter](https://twitter.com/yourprofile)
