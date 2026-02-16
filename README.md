@@ -1,18 +1,83 @@
-# Hi, I'm Nandhakumar 👋
+# Hi, I'm Nandhakumar Ganapathy 👋
 
-## About Me
-- 👀 I’m interested in Laravel Framework, Flutter, and Python
-- 🌱 I’m currently working Laravel Framework
-- 💞️ I’m looking to collaborate on projects related to Laravel, Flutter, and Python
-- 📫 How to reach me: ganapathinandhakumar247@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love hiking and exploring new places.
+### Laravel Web Developer | REST API | Livewire | Tailwind | MySQL
 
-## Skills
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+## 🚀 About Me
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+* 💻 Web Developer with **2+ years experience** in PHP & Laravel (v8–11)
+* 🔧 Specialized in **Laravel, Livewire, REST API development & MySQL optimization**
+* 🎯 Experienced in building scalable backend systems & API integrations
+* 🧩 Worked on real-time API projects including FASTag & PAN Service platforms
+* 🐧 Comfortable with Linux (Ubuntu), LAMP stack & server environments
+* 🤝 Open to collaborating on Laravel & API-driven projects
+
+## 🛠 Tech Stack
+
+**Backend**
+
+* PHP
+* Laravel (8–11)
+* Livewire
+* RESTful APIs
+* Python (API integrations)
+
+**Frontend**
+
+* HTML, CSS
+* Tailwind CSS
+* JavaScript
+* Flutter (REST-integrated apps)
+
+**Database**
+
+* MySQL (Design & Query Optimization)
+
+**Tools & Environment**
+
+* GitHub & Git
+* Postman (API testing)
+* Linux / Ubuntu
+* LAMP Stack
+
+## 📌 Key Projects
+
+### 🔹 FASTag API Integration Platform
+
+* Built Laravel 11 backend for FASTag vehicle & transaction APIs
+* Implemented secure authentication & error handling
+* Optimized API performance & database queries
+
+### 🔹 PAN Service Management System
+
+* Developed REST APIs & backend workflows
+* Built secure endpoints & scalable DB structure
+* Integrated Python modules with Laravel
+
+### 🔹 Laravel + Streamlit AI Integration
+
+* Laravel backend connected with Streamlit AI apps
+* Real-time API communication & dashboards
+
+### 🔹 Book Management System
+
+* Laravel CRUD backend with validation & secure data handling
+
+### 🔹 Flutter App with REST APIs
+
+* Cross-platform Flutter app with API integration
+* Reusable UI & state management
+
+## 📈 What I Focus On
+
+* Clean Laravel architecture
+* Secure API design
+* Performance optimization
+* Scalable database structure
+* Maintainable codebases
+
+## 📫 Contact Me
+
+* 📧 [nandy.g0306@gmail.com](mailto:nandy.g0306@gmail.com)
+* 📱 +91 6379733386
+* 💼 LinkedIn: https://linkedin.com/in/nandhakumar-g-4886bb298
+
