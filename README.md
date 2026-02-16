@@ -1,6 +1,6 @@
 # Hi, I'm Nandhakumar Ganapathy 👋
 
-### Laravel Web Developer | REST API | Livewire | Tailwind | MySQL
+### Laravel Web Developer | REST API | Livewire | Tailwind | MySQL | Python
 
 ## 🚀 About Me
 
